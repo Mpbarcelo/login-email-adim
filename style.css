@@ -46,6 +46,7 @@ input[type="submit"]
     background-color: rgb(30, 30, 110);
     color: white;
     font-weight: bold;
+    box-sizing: border-box;
     cursor: pointer;
     transition: 0.3s;
 }
